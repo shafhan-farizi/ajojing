@@ -1,10 +1,10 @@
 # Kelompok Ajojing
-Repositori ini dibuat untuk memenuhi tugas mata kuliah \*\*Exploratory Data Analysis\*\*.
+Repositori ini dibuat untuk memenuhi tugas mata kuliah **Exploratory Data Analysis**.
 
 ## Anggota Tim
-* **Shafhan Farizi**
-* **Ajiz**
-* **Zikri**
+* **Shafhan Farizi (0110223019)**
+* **Abdul Aziz Alfarizi (0110225057)**
+* **Ziqri Akbar Ashari (0110225120)**
 
 ## Cara Menjalankan Proyek (Setup Lokal)
 Ikuti langkah-langkah berikut untuk menjalankan notebook analisis di komputer lokal Anda menggunakan VS Code:
