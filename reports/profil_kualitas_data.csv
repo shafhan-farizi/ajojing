@@ -1,0 +1,10 @@
+Pemeriksaan,Temuan
+1. Potret awal,Dataset memiliki 1000 baris dan 17 kolom. Kolom Date dan Time bertipe object.
+2. Nilai kosong sejati,Tidak ditemukan missing value pada seluruh kolom.
+3. Placeholder teks dan angka,Tidak ditemukan placeholder umum atau spasi di awal maupun akhir nilai teks.
+"4. MCAR, MAR, dan MNAR","Tidak ada kolom dengan missing value di atas 5%, sehingga klasifikasi tidak diperlukan."
+5. Duplikat,Tidak ditemukan duplikat persis maupun Invoice ID duplikat.
+6. Konsistensi teks,Kategori teks konsisten. Pasangan Branch dan City juga konsisten.
+7. Tipe data,Kolom Date dan Time bertipe object dan menjadi kandidat konversi tipe pada tahap perbaikan.
+8. Aturan rentang,Tidak ditemukan pelanggaran berdasarkan tujuh aturan validitas yang diterapkan.
+9. Hubungan antarkolom,Seluruh hubungan perhitungan yang diperiksa sesuai tanpa pelanggaran.
